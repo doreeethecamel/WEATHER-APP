@@ -1,0 +1,3 @@
+# WEATHER-APP
+
+a weather app built using HTML, CSS, JAVASCRIPT AND WEATHER API
